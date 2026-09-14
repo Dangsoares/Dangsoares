@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Dang Soares
 
-**Desenvolvedor | Data Scientist | Entusiasta de Machine Learning**
+**Data Scientist | Machine Learning | Apredndiz de Desenvolvedor **
 
 ---
 
