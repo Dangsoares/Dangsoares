@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Dang Soares
+# 👋 Olá! Eu sou Daniel
 
 **Data Scientist | Machine Learning | Aprendiz de Desenvolvedor**
 
