@@ -1,12 +1,31 @@
 # 👋 Olá! Eu sou Dang Soares
 
-**Data Scientist | Machine Learning | Aprendiz de Desenvolvedor **
+**Data Scientist | Machine Learning | Aprendiz de Desenvolvedor**
+
+---
+
+## 🎮 Jogo da Cobrinha - Navegando pelos meus Skills
+
+```
+🟩 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  🐍►  Python  →  Machine Learning  →  Data Science
+  ┃                                        ▲
+  ▼                                        ┃
+Deep Learning  ←  Jupyter  ←  SQL  ←  Data Eng
+  ┃                                        
+  ├─→ JavaScript  →  Web Dev  →  Full Stack ►
+  │                                        
+  └─→ LaTeX  →  Docs  →  Business Intel ►
+🟩 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+*A cobrinha navega entre meus principais conhecimentos! 🐍✨*
 
 ---
 
 ## 🎯 Sobre Mim
 
-Sou um profissional apaixonado por análise de dados e desenvolvimento de soluções inovadoras. Com experiência em **Machine Learning**, **Data Science** e **Desenvolvimento Web**, trabalho com foco em criar projetos que agregam valor real.
+Sou um profissional apaixonado por análise de dados e desenvolvimento de soluções inovadoras. Com experiência em **Machine Learning**, **Data Science** e **Desenvolvimento Web**, trabalho com foco em gerar insights valiosos através de dados e código limpo.
 
 Estou sempre em busca de novos aprendizados e desafios tecnológicos!
 
@@ -15,11 +34,11 @@ Estou sempre em busca de novos aprendizados e desafios tecnológicos!
 ## 💻 Minhas Competências
 
 ### Linguagens & Tecnologias
-- **Python** - Data Science, Machine Learning, Análise de Dados
-- **JavaScript** - Desenvolvimento Web
-- **Jupyter Notebook** - Análise exploratória e prototipagem
-- **SQL** - Modelagem de dados e data warehousing
-- **LaTeX** - Documentação técnica
+- **Python** 🐍 - Data Science, Machine Learning, Análise de Dados
+- **JavaScript** 📜 - Desenvolvimento Web
+- **Jupyter Notebook** 📓 - Análise exploratória e prototipagem
+- **SQL** 🗄️ - Modelagem de dados e data warehousing
+- **LaTeX** 📝 - Documentação técnica
 
 ### Áreas de Especialização
 - 🤖 **Machine Learning** - Modelos preditivos e análise de risco de crédito
@@ -85,4 +104,3 @@ Estou sempre em busca de novos aprendizados e desafios tecnológicos!
 ---
 
 **_"Dados contam histórias. Meu trabalho é ajudar a contá-las bem."_** 📊
-
