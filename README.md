@@ -2,27 +2,6 @@
 
 **Data Scientist | Machine Learning | Aprendiz de Desenvolvedor**
 
----
-
-## 🎮 Jogo da Cobrinha - Navegando pelos meus Skills
-
-```
-🟩 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  🐍►  Python  →  Machine Learning  →  Data Science
-  ┃                                        ▲
-  ▼                                        ┃
-Deep Learning  ←  Jupyter  ←  SQL  ←  Data Eng
-  ┃                                        
-  ├─→ JavaScript  →  Web Dev  →  Full Stack ►
-  │                                        
-  └─→ LaTeX  →  Docs  →  Business Intel ►
-🟩 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-*A cobrinha navega entre meus principais conhecimentos! 🐍✨*
-
----
-
 ## 🎯 Sobre Mim
 
 Sou um profissional apaixonado por análise de dados e desenvolvimento de soluções inovadoras. Com experiência em **Machine Learning**, **Data Science** e **Desenvolvimento Web**, trabalho com foco em gerar insights valiosos através de dados e código limpo.
