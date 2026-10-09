@@ -4,7 +4,7 @@
 
 ## 🎯 Sobre Mim
 
-Sou um profissional apaixonado por análise de dados e desenvolvimento de soluções inovadoras. Com experiência em **Machine Learning**, **Data Science** e **Desenvolvimento Web**, trabalho com foco em gerar insights valiosos através de dados.
+Apaixonado por análise de dados e desenvolvimento de soluções inovadoras. Com experiência em **Machine Learning**, **Data Science** e **Desenvolvimento Web**, trabalho com foco em gerar insights valiosos através de dados.
 Estou sempre em busca de novos aprendizados e desafios tecnológicos!
 
 ---
